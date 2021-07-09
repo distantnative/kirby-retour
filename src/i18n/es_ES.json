@@ -40,5 +40,5 @@
     "retour.system.redirects": "Redirigido exitosamente",
     "retour.system.deleteAfter": "Eliminar registros después",
     "retour.system.deleteAfter.months": "{count} meses",
-    "retour.system.docs": "Obtenga más información sobre las opciones <a href='{docs}'> en los documentos </a>."
+    "retour.system.docs": "Obtenga más información sobre las opciones <a href='{docs}' target='_blank'> en los documentos </a>."
 }

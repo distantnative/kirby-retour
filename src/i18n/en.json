@@ -40,5 +40,5 @@
     "retour.system.redirects": "Successfully redirected",
     "retour.system.deleteAfter": "Delete logs after",
     "retour.system.deleteAfter.months": "{count} months",
-    "retour.system.docs": "Learn more about options <a href='{docs}'>in the docs</a>."
+    "retour.system.docs": "Learn more about options <a href='{docs}' target='_blank'>in the docs</a>."
 }

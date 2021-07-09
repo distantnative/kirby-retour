@@ -40,5 +40,5 @@
     "retour.system.redirects": "Başarıyla yönlendirildi",
     "retour.system.deleteAfter": "Günlükleri silme sıklığı",
     "retour.system.deleteAfter.months": "{count} ay",
-    "retour.system.docs": "<a href='{docs}'>Dokümanlardaki</a> seçenekler hakkında daha fazla bilgi edinin."
+    "retour.system.docs": "<a href='{docs}' target='_blank'>Dokümanlardaki</a> seçenekler hakkında daha fazla bilgi edinin."
 }
